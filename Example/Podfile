@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'PMSCalendar_Example' do
+  pod 'PMSCalendar', :path => '../'
+
+  target 'PMSCalendar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
