@@ -1,0 +1,6 @@
+framework module Pods_PMSCalendar_Tests {
+  umbrella header "Pods-PMSCalendar_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

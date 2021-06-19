@@ -1,0 +1,6 @@
+framework module PMSCalendar {
+  umbrella header "PMSCalendar-umbrella.h"
+
+  export *
+  module * { export * }
+}
